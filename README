@@ -1,0 +1,4 @@
+These are codes of various machine optimizartion techniques in python.
+You just have to change the file fitnessFunction.py according to your need.
+Then run your desired optimization technique and get optimized function.
+To merge results of all techniques run MergeAndplot.py
